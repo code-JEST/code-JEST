@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m Adrian — an IT graduate with a strong interest in web development, software, and application development. I enjoy being part of the entire process — from early ideas to building working solutions.<br>🎓 For my bachelor’s thesis, I developed a membership system for EFN<br>🚀 Right now, I’m focusing on growing as a developer, learning Azure (AZ-900), and diving deeper into AI, which really fascinates me.<br>💡 I’d describe myself as curious, detail-oriented, creative, and structured — always eager to learn and improve.
+👋 Hi, I’m Adrian — an IT graduate with a strong interest in web development, software, and application development. I enjoy being part of the entire process — from early ideas to building working solutions.<br>🎓 For my bachelor’s thesis, I developed on a 👉 [Membership System for EFN](https://github.com/code-JEST/efn-membership-system)
+<br>🚀 Right now, I’m focusing on growing as a developer, learning Azure (AZ-900), and diving deeper into AI, which really fascinates me.<br>💡 I’d describe myself as curious, detail-oriented, creative, and structured — always eager to learn and improve.
 
 
 # 💻 Tech Stack:
