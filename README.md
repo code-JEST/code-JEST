@@ -9,3 +9,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=code-JEST&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=code-JEST&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-JEST&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+# 🛠️ Mine ferdighetsnivåer
+
+![Python-ferdighet](https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge&logo=python&logoColor=white) 
+![React-ferdighet](https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Java-ferdighet](https://img.shields.io/badge/Java-75%25-orange?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Azure-ferdighet](https://img.shields.io/badge/Azure-60%25-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
