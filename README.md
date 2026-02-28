@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi, I'm Adrian
 
 I'm an IT graduate focused on web and software development. I care about the whole journey: turning ideas into real, functional products.
