@@ -1,6 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m Adrian — an IT graduate with a strong interest in web development, software, and application development. I enjoy being part of the entire process — from early ideas to building working solutions.<br>🎓 For my bachelor’s thesis, I developed on a 👉 [Membership System for EFN](https://github.com/code-JEST/efn-membership-system)
-<br>🚀 Right now, I’m focusing on growing as a developer, learning Azure (AZ-900), and diving deeper into AI, which really fascinates me.<br>💡 I’d describe myself as curious, detail-oriented, creative, and structured — always eager to learn and improve.
+# Hi, I'm Adrian
+
+I'm an IT graduate focused on web and software development. I care about the whole journey: turning ideas into real, functional products.
+
+I run **Hoff Design**, my sole proprietorship, taking on freelance work while actively building. My latest personal project is 🧠 [BashBrain](https://github.com/code-JEST/bashbrain), an AI project I'm developing to push my skills further. My thesis was a 👉 [Membership System for EFN](https://github.com/code-JEST/efn-membership-system).
 
 
 # 💻 Tech Stack:
